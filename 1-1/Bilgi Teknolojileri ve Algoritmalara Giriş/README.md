@@ -1,0 +1,35 @@
+# 📚 Bilgi Teknolojileri ve Algoritmalara Giriş
+
+## ℹ️ Ders Bilgileri
+
+- 🏷️ **Ders Tipi:** Zorunlu
+- 🏷️ **Müfredat:** Her İki Müfredat
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok.
+- 💬 **Öğrenci Görüşleri:**
+    - ℹ️ Henüz yorum yok.
+
+## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2026-2027**:
+  - **SÖ** — Dr. Öğretim Üyesi Savaş Öztürk
+- **2025-2026**:
+  - **SÖ** — Dr. Öğretim Üyesi Savaş Öztürk
+- **2024-2025**:
+  - **SÖ** — Dr. Öğretim Üyesi Savaş Öztürk
+- **2023-2024**:
+  - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
+- **2022-2023**:
+  - **AS** — Dr. Öğretim Üyesi Ali Sarıkaş
+- **2021-2022**:
+  - **AB** — Dr. Öğretim Üyesi Anıl Baş
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2025-2026 ve 2026-2027 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Dr. Öğretim Üyesi Savaş Öztürk](../../README.md#‍-dr-öğretim-üyesi-savaş-öztürk)**
+    - ✍️ Henüz yorum yok.
+
+## 🤝 Katkıda Bulun
+
+Bu derse ait notun, çıkmış sorun, ödev çözümün ya da faydalı bir kaynağın varsa [📖 katkıda bulunma rehberine](../../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!

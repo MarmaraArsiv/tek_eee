@@ -1,0 +1,184 @@
+# 📚 Bitirme Projesi
+
+## ℹ️ Ders Bilgileri
+
+- 🏷️ **Ders Tipi:** Zorunlu
+- 🏷️ **Müfredat:** Her İki Müfredat
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok.
+- 💬 **Öğrenci Görüşleri:**
+    - ℹ️ Henüz yorum yok.
+
+## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2026-2027**:
+  - **BO** — Prof. Dr. Bülent Oral
+  - **NE** — Prof. Dr. Nazmi Ekren
+  - **FA** — Dr. Öğretim Üyesi Faruk Aydın
+  - **İKIY** — Prof. Dr. İsmail Kıyak
+  - **PÖB** — Dr. Öğretim Üyesi Pınar Özkan Bakbak
+- **2025-2026**:
+  - **AEK** — Prof. Dr. Ahmet Emin Kuzucuoğlu
+  - **ÜKT** — Prof. Dr. Ümit Kemalettin Terzi
+  - **AG** — Prof. Dr. Adil Güler
+  - **UD** — Doç. Dr. Uğur Demir
+  - **ANA** — Doç. Dr. Alper Nabi Akpolat
+  - **FA** — Dr. Öğretim Üyesi Faruk Aydın
+  - **FSS** — Dr. Öğretim Üyesi Fatih Serdar Sayın
+  - **HHÇ** — Dr. Öğretim Üyesi Hasan Hüseyin Çelik
+  - **PÖB** — Dr. Öğretim Üyesi Pınar Özkan Bakbak
+  - **SÖ** — Dr. Öğretim Üyesi Savaş Öztürk
+  - **SVN** — Dr. Öğretim Üyesi Seçil Varbak Neşe
+  - **AA** — Dr. Öğretim Üyesi Aynur Akar
+  - **UB** — Dr. Öğretim Üyesi Ulvi Başpınar
+  - **VGB** — Doç. Dr. Veysel Gökhan Böcekçi
+  - **KS** — Arş. Gör. Dr. Kenan Savaş
+  - **HK** — Öğr. Gör. Dr. Habib Kaymaz
+  - **BO** — Prof. Dr. Bülent Oral
+  - **HE** — Prof. Dr. Hasan Erdal
+  - **HKOR** — Prof. Dr. Hayriye Korkmaz
+  - **İKIY** — Prof. Dr. İsmail Kıyak
+  - **NE** — Prof. Dr. Nazmi Ekren
+  - **NFOS** — Prof. Dr. Necibe Füsun Oyman Serteller
+  - **ŞS** — Prof. Dr. Şafak Sağlam
+- **2024-2025**:
+  - **AEK** — Prof. Dr. Ahmet Emin Kuzucuoğlu
+  - **KS** — Arş. Gör. Dr. Kenan Savaş
+  - **İKIY** — Prof. Dr. İsmail Kıyak
+  - **NE** — Prof. Dr. Nazmi Ekren
+  - **AG** — Prof. Dr. Adil Güler
+  - **HHÇ** — Dr. Öğretim Üyesi Hasan Hüseyin Çelik
+  - **UB** — Dr. Öğretim Üyesi Ulvi Başpınar
+  - **SVN** — Dr. Öğretim Üyesi Seçil Varbak Neşe
+  - **VGB** — Doç. Dr. Veysel Gökhan Böcekçi
+  - **AFB** — Prof. Dr. Ahmet Fevzi Baba
+  - **PÖB** — Dr. Öğretim Üyesi Pınar Özkan Bakbak
+  - **SÖ** — Dr. Öğretim Üyesi Savaş Öztürk
+  - **FA** — Dr. Öğretim Üyesi Faruk Aydın
+  - **UD** — Doç. Dr. Uğur Demir
+  - **HK** — Öğr. Gör. Dr. Habib Kaymaz
+  - **FSS** — Dr. Öğretim Üyesi Fatih Serdar Sayın
+  - **NFOS** — Prof. Dr. Necibe Füsun Oyman Serteller
+  - **ANA** — Doç. Dr. Alper Nabi Akpolat
+  - **BO** — Prof. Dr. Bülent Oral
+  - **HE** — Prof. Dr. Hasan Erdal
+  - **ŞS** — Prof. Dr. Şafak Sağlam
+  - **HKOR** — Prof. Dr. Hayriye Korkmaz
+  - **ÜKT** — Prof. Dr. Ümit Kemalettin Terzi
+- **2023-2024**:
+  - **AEK** — Prof. Dr. Ahmet Emin Kuzucuoğlu
+  - **İKIY** — Prof. Dr. İsmail Kıyak
+  - **NE** — Prof. Dr. Nazmi Ekren
+  - **AG** — Prof. Dr. Adil Güler
+  - **HHÇ** — Dr. Öğretim Üyesi Hasan Hüseyin Çelik
+  - **UB** — Dr. Öğretim Üyesi Ulvi Başpınar
+  - **SVN** — Dr. Öğretim Üyesi Seçil Varbak Neşe
+  - **VGB** — Doç. Dr. Veysel Gökhan Böcekçi
+  - **AFB** — Prof. Dr. Ahmet Fevzi Baba
+  - **PÖB** — Dr. Öğretim Üyesi Pınar Özkan Bakbak
+  - **FA** — Dr. Öğretim Üyesi Faruk Aydın
+  - **ED** — Doç. Dr. Erkan Dursun
+  - **UD** — Doç. Dr. Uğur Demir
+  - **NFOS** — Prof. Dr. Necibe Füsun Oyman Serteller
+  - **ANA** — Doç. Dr. Alper Nabi Akpolat
+  - **BO** — Prof. Dr. Bülent Oral
+  - **HE** — Prof. Dr. Hasan Erdal
+  - **ŞS** — Prof. Dr. Şafak Sağlam
+  - **HKOR** — Prof. Dr. Hayriye Korkmaz
+  - **ÜKT** — Prof. Dr. Ümit Kemalettin Terzi
+- **2022-2023**:
+  - **AFB** — Prof. Dr. Ahmet Fevzi Baba
+  - **NE** — Prof. Dr. Nazmi Ekren
+  - **AG** — Prof. Dr. Adil Güler
+  - **AA** — Dr. Öğretim Üyesi Aynur Akar
+  - **HHÇ** — Dr. Öğretim Üyesi Hasan Hüseyin Çelik
+  - **VGB** — Doç. Dr. Veysel Gökhan Böcekçi
+  - **SVN** — Dr. Öğretim Üyesi Seçil Varbak Neşe
+  - **UB** — Dr. Öğretim Üyesi Ulvi Başpınar
+  - **ED** — Doç. Dr. Erkan Dursun
+  - **ANA** — Doç. Dr. Alper Nabi Akpolat
+  - **HE** — Prof. Dr. Hasan Erdal
+  - **FA** — Dr. Öğretim Üyesi Faruk Aydın
+  - **MMİ** — Dr. Öğretim Üyesi Mehmet Murat İspirli
+  - **NFOS** — Prof. Dr. Necibe Füsun Oyman Serteller
+  - **BO** — Prof. Dr. Bülent Oral
+  - **HKOR** — Prof. Dr. Hayriye Korkmaz
+  - **ŞS** — Prof. Dr. Şafak Sağlam
+  - **ÜKT** — Prof. Dr. Ümit Kemalettin Terzi
+  - **AEK** — Prof. Dr. Ahmet Emin Kuzucuoğlu
+  - **İKIY** — Prof. Dr. İsmail Kıyak
+- **2021-2022**:
+  - **AFB** — Prof. Dr. Ahmet Fevzi Baba
+  - **HKOR** — Prof. Dr. Hayriye Korkmaz
+  - **ÜKT** — Prof. Dr. Ümit Kemalettin Terzi
+  - **AEK** — Prof. Dr. Ahmet Emin Kuzucuoğlu
+  - **NE** — Prof. Dr. Nazmi Ekren
+  - **İKIY** — Prof. Dr. İsmail Kıyak
+  - **AG** — Prof. Dr. Adil Güler
+  - **HHÇ** — Dr. Öğretim Üyesi Hasan Hüseyin Çelik
+  - **AA** — Dr. Öğretim Üyesi Aynur Akar
+  - **VGB** — Doç. Dr. Veysel Gökhan Böcekçi
+  - **PÖB** — Dr. Öğretim Üyesi Pınar Özkan Bakbak
+  - **UB** — Dr. Öğretim Üyesi Ulvi Başpınar
+  - **ANA** — Doç. Dr. Alper Nabi Akpolat
+  - **SVN** — Dr. Öğretim Üyesi Seçil Varbak Neşe
+  - **ED** — Doç. Dr. Erkan Dursun
+  - **NFOS** — Prof. Dr. Necibe Füsun Oyman Serteller
+  - **YBİR** — Prof. Dr. Yaşar Birbir
+  - **BO** — Prof. Dr. Bülent Oral
+  - **ŞS** — Prof. Dr. Şafak Sağlam
+  - **HE** — Prof. Dr. Hasan Erdal
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2025-2026 ve 2026-2027 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Prof. Dr. Bülent Oral](../../README.md#‍-prof-dr-bülent-oral)**
+    - ✍️ Henüz yorum yok.
+- **[Prof. Dr. Nazmi Ekren](../../README.md#‍-prof-dr-nazmi-ekren)**
+    - ✍️ Henüz yorum yok.
+- **[Dr. Öğretim Üyesi Faruk Aydın](../../README.md#‍-dr-öğretim-üyesi-faruk-aydın)**
+    - ✍️ Henüz yorum yok.
+- **[Prof. Dr. İsmail Kıyak](../../README.md#‍-prof-dr-i̇smail-kıyak)**
+    - ✍️ Henüz yorum yok.
+- **[Dr. Öğretim Üyesi Pınar Özkan Bakbak](../../README.md#‍-dr-öğretim-üyesi-pınar-özkan-bakbak)**
+    - ✍️ Henüz yorum yok.
+- **[Prof. Dr. Ahmet Emin Kuzucuoğlu](../../README.md#‍-prof-dr-ahmet-emin-kuzucuoğlu)**
+    - ✍️ Henüz yorum yok.
+- **[Prof. Dr. Ümit Kemalettin Terzi](../../README.md#‍-prof-dr-ümit-kemalettin-terzi)**
+    - ✍️ Henüz yorum yok.
+- **[Prof. Dr. Adil Güler](../../README.md#‍-prof-dr-adil-güler)**
+    - ✍️ Henüz yorum yok.
+- **[Doç. Dr. Uğur Demir](../../README.md#‍-doç-dr-uğur-demir)**
+    - ✍️ Henüz yorum yok.
+- **[Doç. Dr. Alper Nabi Akpolat](../../README.md#‍-doç-dr-alper-nabi-akpolat)**
+    - ✍️ Henüz yorum yok.
+- **[Dr. Öğretim Üyesi Fatih Serdar Sayın](../../README.md#‍-dr-öğretim-üyesi-fatih-serdar-sayın)**
+    - ✍️ Henüz yorum yok.
+- **[Dr. Öğretim Üyesi Hasan Hüseyin Çelik](../../README.md#‍-dr-öğretim-üyesi-hasan-hüseyin-çelik)**
+    - ✍️ Henüz yorum yok.
+- **[Dr. Öğretim Üyesi Savaş Öztürk](../../README.md#‍-dr-öğretim-üyesi-savaş-öztürk)**
+    - ✍️ Henüz yorum yok.
+- **[Dr. Öğretim Üyesi Seçil Varbak Neşe](../../README.md#‍-dr-öğretim-üyesi-seçil-varbak-neşe)**
+    - ✍️ Henüz yorum yok.
+- **[Dr. Öğretim Üyesi Aynur Akar](../../README.md#‍-dr-öğretim-üyesi-aynur-akar)**
+    - ✍️ Henüz yorum yok.
+- **[Dr. Öğretim Üyesi Ulvi Başpınar](../../README.md#‍-dr-öğretim-üyesi-ulvi-başpınar)**
+    - ✍️ Henüz yorum yok.
+- **[Doç. Dr. Veysel Gökhan Böcekçi](../../README.md#‍-doç-dr-veysel-gökhan-böcekçi)**
+    - ✍️ Henüz yorum yok.
+- **[Arş. Gör. Dr. Kenan Savaş](../../README.md#‍-arş-gör-dr-kenan-savaş)**
+    - ✍️ Henüz yorum yok.
+- **[Öğr. Gör. Dr. Habib Kaymaz](../../README.md#‍-öğr-gör-dr-habib-kaymaz)**
+    - ✍️ Henüz yorum yok.
+- **[Prof. Dr. Hasan Erdal](../../README.md#‍-prof-dr-hasan-erdal)**
+    - ✍️ Henüz yorum yok.
+- **[Prof. Dr. Hayriye Korkmaz](../../README.md#‍-prof-dr-hayriye-korkmaz)**
+    - ✍️ Henüz yorum yok.
+- **[Prof. Dr. Necibe Füsun Oyman Serteller](../../README.md#‍-prof-dr-necibe-füsun-oyman-serteller)**
+    - ✍️ Henüz yorum yok.
+- **[Prof. Dr. Şafak Sağlam](../../README.md#‍-prof-dr-şafak-sağlam)**
+    - ✍️ Henüz yorum yok.
+
+## 🤝 Katkıda Bulun
+
+Bu derse ait notun, çıkmış sorun, ödev çözümün ya da faydalı bir kaynağın varsa [📖 katkıda bulunma rehberine](../../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!

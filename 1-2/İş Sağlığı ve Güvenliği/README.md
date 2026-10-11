@@ -1,0 +1,34 @@
+# 📚 İş Sağlığı ve Güvenliği
+
+## ℹ️ Ders Bilgileri
+
+- 🏷️ **Ders Tipi:** Zorunlu
+- 🏷️ **Müfredat:** 2026 Öncesi
+    - ℹ️ 2026 sonrası müfredatta yerini "İş Sağlığı ve Güvenliği 1" ve "İş Sağlığı ve Güvenliği 2" almış.
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok.
+- 💬 **Öğrenci Görüşleri:**
+    - ℹ️ Henüz yorum yok.
+
+## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2025-2026**:
+  - **BO** — Prof. Dr. Bülent Oral
+- **2024-2025**:
+  - **BO** — Prof. Dr. Bülent Oral
+- **2023-2024**:
+  - **BO** — Prof. Dr. Bülent Oral
+- **2022-2023**:
+  - **BO** — Prof. Dr. Bülent Oral
+- **2021-2022**:
+  - **BO** — Prof. Dr. Bülent Oral
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2024-2025 ve 2025-2026 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Prof. Dr. Bülent Oral](../../README.md#‍-prof-dr-bülent-oral)**
+    - ✍️ Henüz yorum yok.
+
+## 🤝 Katkıda Bulun
+
+Bu derse ait notun, çıkmış sorun, ödev çözümün ya da faydalı bir kaynağın varsa [📖 katkıda bulunma rehberine](../../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!

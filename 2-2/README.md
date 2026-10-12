@@ -12,9 +12,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScc92t5wMd4JPbStteJkFwXVo92NlHd4Es9VDYdtb3KGXSKrg/viewform?usp=pp_url&entry.1504334399=Elektrik%20Makineleri) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeN8QsVETDoiYcAh-JdiDfjC_j5oFlnPiWLvCyebJfJ0XeAmg/viewform?usp=pp_url&entry.208110944=Elektrik%20Makineleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
@@ -41,9 +41,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScc92t5wMd4JPbStteJkFwXVo92NlHd4Es9VDYdtb3KGXSKrg/viewform?usp=pp_url&entry.1504334399=Ayd%C4%B1nlatma%20Teknolojisi) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeN8QsVETDoiYcAh-JdiDfjC_j5oFlnPiWLvCyebJfJ0XeAmg/viewform?usp=pp_url&entry.208110944=Ayd%C4%B1nlatma%20Teknolojisi) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
@@ -66,9 +66,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScc92t5wMd4JPbStteJkFwXVo92NlHd4Es9VDYdtb3KGXSKrg/viewform?usp=pp_url&entry.1504334399=Mikrodenetleyiciler%20ve%20Uygulamalar%C4%B1) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeN8QsVETDoiYcAh-JdiDfjC_j5oFlnPiWLvCyebJfJ0XeAmg/viewform?usp=pp_url&entry.208110944=Mikrodenetleyiciler%20ve%20Uygulamalar%C4%B1) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
@@ -96,9 +96,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScc92t5wMd4JPbStteJkFwXVo92NlHd4Es9VDYdtb3KGXSKrg/viewform?usp=pp_url&entry.1504334399=Devre%20Teorisi%202) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeN8QsVETDoiYcAh-JdiDfjC_j5oFlnPiWLvCyebJfJ0XeAmg/viewform?usp=pp_url&entry.208110944=Devre%20Teorisi%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
@@ -126,9 +126,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScc92t5wMd4JPbStteJkFwXVo92NlHd4Es9VDYdtb3KGXSKrg/viewform?usp=pp_url&entry.1504334399=Sinyaller%20ve%20Sistemler) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeN8QsVETDoiYcAh-JdiDfjC_j5oFlnPiWLvCyebJfJ0XeAmg/viewform?usp=pp_url&entry.208110944=Sinyaller%20ve%20Sistemler) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
@@ -156,9 +156,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScc92t5wMd4JPbStteJkFwXVo92NlHd4Es9VDYdtb3KGXSKrg/viewform?usp=pp_url&entry.1504334399=Elektronik%202) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeN8QsVETDoiYcAh-JdiDfjC_j5oFlnPiWLvCyebJfJ0XeAmg/viewform?usp=pp_url&entry.208110944=Elektronik%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
@@ -186,9 +186,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScc92t5wMd4JPbStteJkFwXVo92NlHd4Es9VDYdtb3KGXSKrg/viewform?usp=pp_url&entry.1504334399=Say%C4%B1sal%20Analiz) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeN8QsVETDoiYcAh-JdiDfjC_j5oFlnPiWLvCyebJfJ0XeAmg/viewform?usp=pp_url&entry.208110944=Say%C4%B1sal%20Analiz) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:

@@ -5,9 +5,9 @@
 - 🏷️ **Ders Tipi:** Seçmeli
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScc92t5wMd4JPbStteJkFwXVo92NlHd4Es9VDYdtb3KGXSKrg/viewform?usp=pp_url&entry.1504334399=Say%C4%B1sal%20Kontrol%20Sistemlerine%20Giri%C5%9F) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeN8QsVETDoiYcAh-JdiDfjC_j5oFlnPiWLvCyebJfJ0XeAmg/viewform?usp=pp_url&entry.208110944=Say%C4%B1sal%20Kontrol%20Sistemlerine%20Giri%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2022-2023**:
@@ -20,7 +20,7 @@
 Dersi 2021-2022 ve 2022-2023 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
 
 - **[Prof. Dr. Ahmet Emin Kuzucuoğlu](../../README.md#‍-prof-dr-ahmet-emin-kuzucuoğlu)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScl-MF8AgpoUbE2_AJsO0T0e8aP04M8kKFzKU7PfgihytpGHA/viewform?usp=pp_url&entry.959875738=Prof.%20Dr.%20Ahmet%20Emin%20Kuzucuo%C4%9Flu) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 

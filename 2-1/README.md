@@ -12,9 +12,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScc92t5wMd4JPbStteJkFwXVo92NlHd4Es9VDYdtb3KGXSKrg/viewform?usp=pp_url&entry.1504334399=Elektromanyetik%20Alan%20Teorisi) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeN8QsVETDoiYcAh-JdiDfjC_j5oFlnPiWLvCyebJfJ0XeAmg/viewform?usp=pp_url&entry.208110944=Elektromanyetik%20Alan%20Teorisi) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -45,9 +45,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScc92t5wMd4JPbStteJkFwXVo92NlHd4Es9VDYdtb3KGXSKrg/viewform?usp=pp_url&entry.1504334399=Say%C4%B1sal%20Tasar%C4%B1m) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeN8QsVETDoiYcAh-JdiDfjC_j5oFlnPiWLvCyebJfJ0XeAmg/viewform?usp=pp_url&entry.208110944=Say%C4%B1sal%20Tasar%C4%B1m) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -77,9 +77,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScc92t5wMd4JPbStteJkFwXVo92NlHd4Es9VDYdtb3KGXSKrg/viewform?usp=pp_url&entry.1504334399=Devre%20Teorisi%201) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeN8QsVETDoiYcAh-JdiDfjC_j5oFlnPiWLvCyebJfJ0XeAmg/viewform?usp=pp_url&entry.208110944=Devre%20Teorisi%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -110,9 +110,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScc92t5wMd4JPbStteJkFwXVo92NlHd4Es9VDYdtb3KGXSKrg/viewform?usp=pp_url&entry.1504334399=Elektronik%201) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeN8QsVETDoiYcAh-JdiDfjC_j5oFlnPiWLvCyebJfJ0XeAmg/viewform?usp=pp_url&entry.208110944=Elektronik%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -143,9 +143,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScc92t5wMd4JPbStteJkFwXVo92NlHd4Es9VDYdtb3KGXSKrg/viewform?usp=pp_url&entry.1504334399=Diferansiyel%20Denklemler) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeN8QsVETDoiYcAh-JdiDfjC_j5oFlnPiWLvCyebJfJ0XeAmg/viewform?usp=pp_url&entry.208110944=Diferansiyel%20Denklemler) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -170,9 +170,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScc92t5wMd4JPbStteJkFwXVo92NlHd4Es9VDYdtb3KGXSKrg/viewform?usp=pp_url&entry.1504334399=Bilimsel%20Ara%C5%9Ft%C4%B1rma%20ve%20Sunum%20Teknikleri) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeN8QsVETDoiYcAh-JdiDfjC_j5oFlnPiWLvCyebJfJ0XeAmg/viewform?usp=pp_url&entry.208110944=Bilimsel%20Ara%C5%9Ft%C4%B1rma%20ve%20Sunum%20Teknikleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:

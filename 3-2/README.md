@@ -12,9 +12,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScc92t5wMd4JPbStteJkFwXVo92NlHd4Es9VDYdtb3KGXSKrg/viewform?usp=pp_url&entry.1504334399=%C3%96l%C3%A7me%20ve%20Enstr%C3%BCmantasyon) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeN8QsVETDoiYcAh-JdiDfjC_j5oFlnPiWLvCyebJfJ0XeAmg/viewform?usp=pp_url&entry.208110944=%C3%96l%C3%A7me%20ve%20Enstr%C3%BCmantasyon) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
@@ -39,9 +39,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScc92t5wMd4JPbStteJkFwXVo92NlHd4Es9VDYdtb3KGXSKrg/viewform?usp=pp_url&entry.1504334399=Y%C3%BCksek%20Gerilim%20Tekni%C4%9Fi) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeN8QsVETDoiYcAh-JdiDfjC_j5oFlnPiWLvCyebJfJ0XeAmg/viewform?usp=pp_url&entry.208110944=Y%C3%BCksek%20Gerilim%20Tekni%C4%9Fi) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
@@ -64,9 +64,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScc92t5wMd4JPbStteJkFwXVo92NlHd4Es9VDYdtb3KGXSKrg/viewform?usp=pp_url&entry.1504334399=G%C3%BC%C3%A7%20Elektroni%C4%9Fi%20ve%20End%C3%BCstriyel%20Uygulamalar%C4%B1) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeN8QsVETDoiYcAh-JdiDfjC_j5oFlnPiWLvCyebJfJ0XeAmg/viewform?usp=pp_url&entry.208110944=G%C3%BC%C3%A7%20Elektroni%C4%9Fi%20ve%20End%C3%BCstriyel%20Uygulamalar%C4%B1) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
@@ -91,9 +91,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScc92t5wMd4JPbStteJkFwXVo92NlHd4Es9VDYdtb3KGXSKrg/viewform?usp=pp_url&entry.1504334399=M%C3%BChendisler%20i%C3%A7in%20%C4%B0statistik) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeN8QsVETDoiYcAh-JdiDfjC_j5oFlnPiWLvCyebJfJ0XeAmg/viewform?usp=pp_url&entry.208110944=M%C3%BChendisler%20i%C3%A7in%20%C4%B0statistik) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
@@ -116,9 +116,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScc92t5wMd4JPbStteJkFwXVo92NlHd4Es9VDYdtb3KGXSKrg/viewform?usp=pp_url&entry.1504334399=T%C3%BCrk%20Dili%202) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeN8QsVETDoiYcAh-JdiDfjC_j5oFlnPiWLvCyebJfJ0XeAmg/viewform?usp=pp_url&entry.208110944=T%C3%BCrk%20Dili%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
@@ -141,9 +141,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScc92t5wMd4JPbStteJkFwXVo92NlHd4Es9VDYdtb3KGXSKrg/viewform?usp=pp_url&entry.1504334399=Teknik%20Yabanc%C4%B1%20Dil%202) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeN8QsVETDoiYcAh-JdiDfjC_j5oFlnPiWLvCyebJfJ0XeAmg/viewform?usp=pp_url&entry.208110944=Teknik%20Yabanc%C4%B1%20Dil%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:

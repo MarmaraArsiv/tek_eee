@@ -5,9 +5,9 @@
 - 🏷️ **Ders Tipi:** Seçmeli
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScc92t5wMd4JPbStteJkFwXVo92NlHd4Es9VDYdtb3KGXSKrg/viewform?usp=pp_url&entry.1504334399=Elektrik%20Ekonomisi) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeN8QsVETDoiYcAh-JdiDfjC_j5oFlnPiWLvCyebJfJ0XeAmg/viewform?usp=pp_url&entry.208110944=Elektrik%20Ekonomisi) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
@@ -26,7 +26,7 @@
 Dersi 2024-2025 ve 2025-2026 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
 
 - **[Prof. Dr. Bülent Oral](../../README.md#‍-prof-dr-bülent-oral)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScl-MF8AgpoUbE2_AJsO0T0e8aP04M8kKFzKU7PfgihytpGHA/viewform?usp=pp_url&entry.959875738=Prof.%20Dr.%20B%C3%BClent%20Oral) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 

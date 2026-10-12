@@ -5,9 +5,9 @@
 - 🏷️ **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScc92t5wMd4JPbStteJkFwXVo92NlHd4Es9VDYdtb3KGXSKrg/viewform?usp=pp_url&entry.1504334399=Bilimsel%20Ara%C5%9Ft%C4%B1rma%20ve%20Sunum%20Teknikleri) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeN8QsVETDoiYcAh-JdiDfjC_j5oFlnPiWLvCyebJfJ0XeAmg/viewform?usp=pp_url&entry.208110944=Bilimsel%20Ara%C5%9Ft%C4%B1rma%20ve%20Sunum%20Teknikleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -31,9 +31,9 @@
 Dersi 2025-2026 ve 2026-2027 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
 
 - **[Doç. Dr. Erkan Dursun](../../README.md#‍-doç-dr-erkan-dursun)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScl-MF8AgpoUbE2_AJsO0T0e8aP04M8kKFzKU7PfgihytpGHA/viewform?usp=pp_url&entry.959875738=Do%C3%A7.%20Dr.%20Erkan%20Dursun) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 - **[Prof. Dr. Bülent Oral](../../README.md#‍-prof-dr-bülent-oral)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScl-MF8AgpoUbE2_AJsO0T0e8aP04M8kKFzKU7PfgihytpGHA/viewform?usp=pp_url&entry.959875738=Prof.%20Dr.%20B%C3%BClent%20Oral) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 

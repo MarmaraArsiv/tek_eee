@@ -7,7 +7,8 @@
 - ⭐ **Yıldız Sayıları:**
     - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScc92t5wMd4JPbStteJkFwXVo92NlHd4Es9VDYdtb3KGXSKrg/viewform?usp=pp_url&entry.1504334399=Bilgisayar%20Destekli%20Devre%20Tasar%C4%B1m%20ve%20Analizi) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeN8QsVETDoiYcAh-JdiDfjC_j5oFlnPiWLvCyebJfJ0XeAmg/viewform?usp=pp_url&entry.208110944=Bilgisayar%20Destekli%20Devre%20Tasar%C4%B1m%20ve%20Analizi) anonim şekilde görüşlerinizi belirtebilirsiniz.
+    - 👤 **_test6_**: test6 ℹ️ Yorum **10.2026** tarihinde yapılmıştır.
+      - ℹ️ Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSeN8QsVETDoiYcAh-JdiDfjC_j5oFlnPiWLvCyebJfJ0XeAmg/viewform?usp=pp_url&entry.208110944=Bilgisayar%20Destekli%20Devre%20Tasar%C4%B1m%20ve%20Analizi) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
